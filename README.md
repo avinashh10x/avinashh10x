@@ -1,19 +1,20 @@
-
 ## 👋 Hey, I'm Avinash  
 
+# 💫 About Me:  
 Just a tech guy who loves **coding and exploring new technologies.**  
 
 - 🔭 Working on **full-stack & IoT projects**  
 - 🌱 Learning **advanced JavaScript & React**  
 - 👯 Open to **collaborations & freelance work**  
 - 💬 Ask me about **MERN stack & scalable apps**  
+
+💻 **Tech:** JavaScript | React | Node.js  
+🔍 **Interests:** Full-stack Dev  
+
 - 📫 Reach me: **[LinkedIn](https://www.linkedin.com/in/avinash-519616249/)** | **[Portfolio](https://avinashh10x.github.io/Portfolio/)**  
 
-🚀 **Just a normal guy who loves building cool stuff, and making things work—usually at the last minute.**  
+🚀 **Just a normal guy who loves building cool stuff and making things work—usually at the last minute.**  
 
-
-# 💫 About Me:
-Just a tech guy who loves to code<br><br>💻 Tech: JavaScript | React | Node.js <br>🔍 Interests: Full-stack Dev 
 
 
 ## 🌐 Socials:
