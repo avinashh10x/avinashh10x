@@ -1,9 +1,4 @@
 
-
-<!--
-**avinashh10x/avinashh10x** is a ✨ special ✨ repository because its `README.md` appears on your GitHub profile.
--->
-
 ## 👋 Hey, I'm Avinash  
 
 Just a tech guy who loves **coding, building cool stuff, and exploring new technologies.**  
