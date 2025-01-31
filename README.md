@@ -11,7 +11,6 @@ Just a tech guy who loves **coding and exploring new technologies.**
 💻 **Tech:** JavaScript | React | Node.js  
 🔍 **Interests:** Full-stack Dev  
 
-- 📫 Reach me: **[LinkedIn](https://www.linkedin.com/in/avinash-519616249/)** | **[Portfolio](https://avinashh10x.github.io/Portfolio/)**  
 
 🚀 **Just a normal guy who loves building cool stuff and making things work—usually at the last minute.**  
 
