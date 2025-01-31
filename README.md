@@ -19,7 +19,7 @@ Just a tech guy who loves **coding and exploring new technologies.**
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/avinashh10x) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/avinash-519616249/) 
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?logo=github&logoColor=white)](https://avinashh10x.github.io/Portfolio/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?logo=github&logoColor=white)](https://myportfolio-delta-vert.vercel.app/)
 
 
 # 💻 Tech Stack:
