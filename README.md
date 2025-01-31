@@ -1,5 +1,3 @@
-## 👋 Hey, I'm Avinash  
-
 # 💫 About Me:  
 Just a tech guy who loves **coding and exploring new technologies.**  
 
