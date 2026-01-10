@@ -1,5 +1,5 @@
 # 💫 About Me:  
-Just a tech guy who loves **coding and exploring new technologies.**  
+Just a bug who loves **coding and exploring new technologies.**  
 
 - 🔭 Working on **full-stack & IoT projects**  
 - 🌱 Learning **advanced JavaScript & React**  
