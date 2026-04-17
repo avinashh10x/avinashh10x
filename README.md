@@ -3,4 +3,4 @@ Hi, I’m Avi, a 23yo full stack developer and CS'25
 graduate. I build tools, platforms, and interactive
 experiences that turn ideas into reliable systems. I
 enjoy experimenting through code, shaping ideas
-and creating meaningful things on the web
+and creating meaningful things on the web..
